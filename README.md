@@ -9,10 +9,9 @@
 
 - 💬 Ask me about **React, Django, Spring Boot, and their associated languages.**
 
-- 📫 How to reach me [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dhiabhg@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiabenhassine/)
 
 <h3 align="left">Connect with me:</h3>
-
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dhiabhg@gmail.com)
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhiabenhassine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhiabenhassine/" height="30" width="40" />
 </a>
 
